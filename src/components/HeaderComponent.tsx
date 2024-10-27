@@ -17,7 +17,7 @@ const HeaderComponent: React.FC = () => {
 
   const toggleleDropdown = ():void => {
     setIsDropdownOpen((prev)=>!prev)
-    alert(isDropdownOpen)
+    // alert(isDropdownOpen)
   }
 
   useEffect(()=>{

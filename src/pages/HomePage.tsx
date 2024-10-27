@@ -1,7 +1,7 @@
 import React from "react";
 import HeaderComponent from "../components/HeaderComponent";
+import ProductCard from "../components/ProductCard";
 import styles from "./HomePage.module.css"
-import DropdownMenu from "../components/Dropdown/DropdownMenu";
 
 
 const HomePage: React.FC = () => {
@@ -9,7 +9,7 @@ const HomePage: React.FC = () => {
         <div>
             <div className={styles.homepage}>
                 <HeaderComponent></HeaderComponent>
-                {/* <DropdownMenu></DropdownMenu> */}
+                <ProductCard></ProductCard>
             </div>
         </div>
 
