@@ -1,0 +1,22 @@
+.buttonIetL {
+    background: white;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    margin-left: 20px;
+}
+.buttonIetL img {
+    height: 24px;
+}
+.buttonIetL p {
+    /* color: #000000; */
+    font-size: 14px;
+    margin: 0;
+}
+.buttonIetL:hover {
+    border: none;
+    color: #9E4D9A;
+    transition: 0.4s ease;
+}

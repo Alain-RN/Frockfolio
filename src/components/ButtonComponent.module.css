@@ -1,0 +1,25 @@
+.customButton {
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+    background: #9E4D9A;
+    border: none;
+    border-radius: 14px;
+    color: white;
+    display: flex;
+    font-size: 14px;
+    height: 50px;
+    gap: 16px;
+    width: 210px;
+    cursor: pointer;
+    margin-right: 8px;
+    margin-left:100px;
+    img {
+        height: 20px;
+        margin-left: 10px;
+    }
+}
+.customButton:hover{
+    background: #9e4d9ae3;
+    transition: 0.4s ease;
+}
+
