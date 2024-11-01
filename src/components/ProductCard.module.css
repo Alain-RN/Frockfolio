@@ -5,6 +5,7 @@
     height: 16px;
     width: 16px;
     border: 1px solid black;
+    background: white;
     padding: 4px;
     border-radius: 50%;
 }
@@ -19,7 +20,7 @@ p {
 
 .productCard {
     background: white;
-    margin: 12px;
+    /* margin: 12px; */
     width: 220px;
     position: relative;
     padding: 12px;

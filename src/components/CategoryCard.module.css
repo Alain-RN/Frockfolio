@@ -1,0 +1,20 @@
+.categoryCard {
+    background: white;
+    width: 220px;
+    height: 270px;
+    padding: 12px;
+    margin: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border: 1px solid #9E4D9A;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.categoryCard img {
+    height: 70px;
+    width: 70px;
+}
