@@ -1,0 +1,13 @@
+.inputComponent {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-inline: 28px;
+}
+
+.inputComponent input {
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #9E4D9A;
+    margin-bottom: 12px;
+}

@@ -8,9 +8,12 @@
 }
 .dropdown {
     width: 150px; 
+    /* background: #000; */
 }
 
 .header {
+    width: 97%;
+    position: fixed;
     align-items: center;
     background: white;
     display: flex;

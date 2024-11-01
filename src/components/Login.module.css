@@ -1,0 +1,14 @@
+.login {
+    width: 450px;
+    padding-block: 20px;
+    background: floralwhite;
+}
+
+.login h2, p {
+    margin-inline: 28px;
+}
+
+.login p {
+    font-size: 14px;
+    margin-bottom: 42px;
+}
